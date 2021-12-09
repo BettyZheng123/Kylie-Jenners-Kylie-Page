@@ -1,0 +1,58 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.text{
+    border:none;
+}
+.image{
+    border:none;
+}
+.profile{
+    width: 100px;  
+    height:100px;
+    display:flex;
+    justify-content:space-between;
+    width:100px;  
+    height:100px;  
+    border-radius: 50%;
+}
+div {
+    border: 5px solid pink;  
+    margin:10px;
+    padding:10px;
+    color: white;
+    font-family: 'Bebas Neue', cursive;
+    font-size:large;
+}
+.posts {  
+  text-align:center;
+}
+.One{
+    width:160px;  
+    height:200px;
+}
+.Two{
+  width: 150px;  
+  height:200px;
+}
+.Three{
+  width: 150px;  
+  height:200px;
+}
+.makeup{
+  width:220px;
+  height:270px;
+}
+.skin{
+  width:220px;
+  height:270px;
+}
+.baby{
+  width:230px;
+  height:200px;
+}
+body{
+    background-color:#FFE6EE;
+}
